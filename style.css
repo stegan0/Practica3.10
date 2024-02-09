@@ -1,0 +1,10 @@
+.circle {
+   list-style-type: circle; 
+}
+.romans {
+    list-style: upper-roman;
+}
+
+.letras {
+    list-style: lower-latin;
+}
